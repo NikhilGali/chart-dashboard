@@ -1,0 +1,13 @@
+
+{
+  "name": "chart-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-chartjs-2": "^3.0.4",
+    "chart.js": "^2.9.4"
+  }
+}
